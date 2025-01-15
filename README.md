@@ -22,11 +22,14 @@ Este proyecto es una aplicación Android sencilla de una calculadora que permite
 
 ## 📱 Capturas de pantalla
 
-![Interfaz de la Calculadora](\image.png)
 
 ---
 
 ## 🚀 Instalación y ejecución
 
 1. Clona este repositorio en tu máquina local:
-
+2. Abre el proyecto en Android Studio.
+3. Asegúrate de tener Android SDK y Java instalados en tu máquina.
+4. Sincroniza el proyecto con Gradle si es necesario.
+5. Conecta un dispositivo Android o inicia un emulador.
+6. Haz clic en Run o presiona Shift + F10 para compilar y ejecutar la aplicación en tu dispositivo.
